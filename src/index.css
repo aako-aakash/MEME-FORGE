@@ -1,0 +1,43 @@
+*{
+  margin:0%;
+  padding:0%;
+  box-sizing:border-box;
+}
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,body{
+  height:100%;
+  width:100%;
+}
+
+
+/* ===== THEME ===== */
+:root {
+  --bg-main: #0f1220;
+  --bg-header: #14172b;
+  --bg-card: #1a1f3a;
+  --bg-input: #222860;
+
+  --text-primary: #f8f9ff;
+  --text-secondary: #b6b9ff;
+
+  --accent-purple: #8b5cf6;
+  --accent-pink: #ec4899;
+  --accent-cyan: #22d3ee;
+
+  --border-soft: rgba(255, 255, 255, 0.08);
+}
+
+
+body{
+    font-family: "Karla", sans-serif;
+    margin: 0;
+    background: radial-gradient(
+    circle at top,
+    #1b1f3b,
+    var(--bg-main)
+    );
+    color: var(--text-primary);
+}
