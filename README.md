@@ -1,6 +1,6 @@
-# 🎭 MemeForge
+# 🎭 Meme Forge
 
-MemeForge is a modern, responsive meme generator web app that allows users to create custom memes using popular meme templates. Users can add their own text, generate random meme images, and download the final meme as an image.
+Meme Forge is a modern, responsive meme generator web app that allows users to create custom memes using popular meme templates. Users can add their own text, generate random meme images, and download the final meme as an image.
 
 ---
 
@@ -21,7 +21,7 @@ MemeForge is a modern, responsive meme generator web app that allows users to cr
 - **CSS3** (Custom styling & animations)
 - **Imgflip API** (Meme templates)
 - **html-to-image** (Download meme as image)
-- **Vite / CRA** (based on your setup)
+- **Vite**
 
 ---
 
