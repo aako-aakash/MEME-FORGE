@@ -37,7 +37,7 @@ Meme Forge is a modern, responsive meme generator web app that allows users to c
 ---
 🌐 Live Demo
 
-👉 Live URL: Add your Vercel link here
+👉 Live URL: [Live App](https://meme-forge-teal.vercel.app/)
 
 👤 Author
 
